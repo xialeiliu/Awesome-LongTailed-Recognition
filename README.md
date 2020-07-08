@@ -1,4 +1,4 @@
-# Awesome Long-Tailed Recognition/ Imbalance Learning
+# Awesome Long-Tailed Recognition/ Imbalanced Learning
 ## Feel free to contact me if you find any interesting paper is missing.
 
 ## Papers
