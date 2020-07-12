@@ -1,6 +1,8 @@
 # Awesome Long-Tailed Recognition/ Imbalanced Learning
 ## Feel free to contact me if you find any interesting paper is missing.
 
+## [Existing Awesome Imbalanced Learning](https://github.com/ZhiningLiu1998/awesome-imbalanced-learning) 
+
 ## Papers
 ### 2020
 - <a name="todo"></a> Deep Representation Learning on Long-Tailed Data: A Learnable Embedding Augmentation Perspective (**CVPR2020**) [[paper](https://arxiv.org/pdf/2002.10826.pdf)]
