@@ -5,6 +5,11 @@
 
 ## Papers
 ### 2020
+- <a name="todo"></a> Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classification (**ECCV2020**) [[paper](https://arxiv.org/abs/2001.01536)]
+- <a name="todo"></a> Solving Long-tailed Recognition with Deep Realistic Taxonomic Classifier	(**ECCV2020**) [[paper](https://arxiv.org/abs/2007.09898)]
+- <a name="todo"></a> Distribution-Balanced Loss for Multi-Label Classification in Long-Tailed Datasets (**ECCV2020**) [[paper]()]
+- <a name="todo"></a> The Devil is in Classification: A Simple Framework for Long-tail Instance Segmentation  (**ECCV2020**) [[paper]()]
+- <a name="todo"></a> Feature Space Augmentation for Long-Tailed Data (**ECCV2020**) [[paper]()]
 - <a name="todo"></a> Deep Representation Learning on Long-Tailed Data: A Learnable Embedding Augmentation Perspective (**CVPR2020**) [[paper](https://arxiv.org/pdf/2002.10826.pdf)]
 - <a name="todo"></a> Inflated Episodic Memory With Region Self-Attention for Long-Tailed Visual Recognition (**CVPR2020**) [[paper](http://ffmpbgrnn.github.io/publications/pdf/iem.pdf)]
 - <a name="todo"></a> Deep Representation Domain Balancing: Face Recognition on Long-Tailed Domains (**CVPR2020**) [[paper](https://arxiv.org/pdf/2003.13791.pdf)]
