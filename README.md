@@ -5,6 +5,7 @@
 
 ## Papers
 ### 2020
+- <a name="todo"></a> Rethinking the Value of Labels for Improving Class-Imbalanced Learning (**NeurIPS2020**) [[paper](https://arxiv.org/abs/2006.07529)] [[code](https://github.com/YyzHarry/imbalanced-semi-self)]
 - <a name="todo"></a> Learning From Multiple Experts: Self-paced Knowledge Distillation for Long-tailed Classification (**ECCV2020**) [[paper](https://arxiv.org/abs/2001.01536)]
 - <a name="todo"></a> Solving Long-tailed Recognition with Deep Realistic Taxonomic Classifier	(**ECCV2020**) [[paper](https://arxiv.org/abs/2007.09898)]
 - <a name="todo"></a> Distribution-Balanced Loss for Multi-Label Classification in Long-Tailed Datasets (**ECCV2020**) [[paper]()]
